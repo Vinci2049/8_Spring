@@ -9,7 +9,7 @@ OnlineStore/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache
 *.dat
 *.resources
 *.log
-*.xml
+
 OnlineStore/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps
 *.xmi
 *.css
@@ -39,3 +39,17 @@ OnlineStore/.metadata/.plugins/org.springframework.ide.eclipse.aop.core/.state
 *.ini
 *.jar
 *.jar
+OnlineStore/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml
+OnlineStore/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml
+OnlineStore/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml
+OnlineStore/Servers/Pivotal tc Server Developer Edition v4.0-config/server.xml
+OnlineStore/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
+OnlineStore/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.0.20180606-2036.xml
+OnlineStore/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml
+OnlineStore/.metadata/.plugins/org.eclipse.ui/dialog_settings.xml
+OnlineStore/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml
+OnlineStore/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+OnlineStore/Servers/Pivotal tc Server Developer Edition v4.0-config/tomcat-users.xml
+OnlineStore/Servers/Pivotal tc Server Developer Edition v4.0-config/context.xml
+OnlineStore/.metadata/.plugins/org.eclipse.wst.server.core/servers.xml
+OnlineStore/Servers/Pivotal tc Server Developer Edition v4.0-config/web.xml
